@@ -1,5 +1,5 @@
-# Analysing Parking Behaviour in Amsterdam Using Agent Based Modelling (Internship Project 2019 - CWI, Amsterdam)
-This repo contains all information regarding my data science master thesis about the evaluation of the agent-based parking model SimPark as a parking policy tool. This evaluation will be done with a case where on-street parking places were moved off-street in the Frans Halsbuurt. This case will be split up in three parts.
+# Analysing Parking Behaviour in Amsterdam using Agent Based Modelling (Internship Project 2019 - CWI, Amsterdam)
+This repo contains all information regarding the evaluation of the agent-based parking model SimPark as a parking policy tool. This evaluation will be done with a case where on-street parking places were moved off-street in the Frans Halsbuurt. This case will be split up in three parts.
 
 ## Case
 Parking situations Frans Halsbuurt:
